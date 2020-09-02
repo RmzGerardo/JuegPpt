@@ -1,0 +1,74 @@
+
+
+#titulo1{
+	font-family: "fuente";
+	font-size:80px;
+	/*color: #ff760d;*/
+	/*color: #eb0046;*/
+	color: #ff7b00;
+    text-shadow: 2px 2px 2px black;
+	
+}
+
+
+
+
+#cuerpo{
+	font-family: "fuente1";
+	font-size:25px;
+	color: #fff;
+	text-shadow: 2px 2px 2px black;
+}
+
+#texto{
+	font-size:30px;
+	text-shadow: 2px 2px 2px black;
+
+}
+
+
+@font-face{
+  font-family: "fuente";
+  src: url("../fonts/CHICKEN Pie.ttf");
+  format("opentype");
+}
+
+
+
+
+@font-face{
+  font-family: "fuente1";
+  src: url("../fonts/BaksoSapi.otf");
+  format("opentype");
+}
+
+
+
+
+#nombreJ{
+	height: 50px;
+	font-size:30px;
+	box-shadow: 1px 1px 1px black;
+}
+
+
+
+#jugarBtn{
+	font-size: 40px;
+	text-shadow: 2px 2px 2px black;
+}
+
+#piedraBtn{
+	font-size: 35px;
+	text-shadow: 2px 2px 2px black;
+}
+
+#papelBtn{
+	font-size: 35px;
+	text-shadow: 2px 2px 2px black;
+}
+
+#tijeraBtn{
+	font-size: 35px;
+	text-shadow: 2px 2px 2px black;
+}
